@@ -1,5 +1,5 @@
 # Qr_gen-Team_54
-developing a platform that generates qr codes
+A machine-readable code consisting of an array of black and white squares, typically used for storing URLs or other information for reading by the camera on a smartphone.
 Database schema link: https://drive.google.com/file/d/11F3Ir7wDEh-g38-rPzNzmgE67XnNkMhK/view?usp=sharing
 Detailed documentation link: https://docs.google.com/document/d/1mv5oSL6Dl8lvUC3fAHu1ZNyJqXdm5LX-q6bIT7hp-lg/edit?usp=sharing
 Figma Link for submission: https://www.figma.com/file/N0tsAZaGEi0qmhnXZHnlFO/QR-GEN-TEAM-54?node-id=0%3A1
